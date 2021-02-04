@@ -1,6 +1,6 @@
 {
   "name": "wymyquill",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Quill editor component for Vue",
   "license": "MIT",
   "private": false,
@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "quill": "^1.3.7"
+    "quillcore": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
