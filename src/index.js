@@ -5,6 +5,7 @@
 * Github: https://github.com/surmon-china/vue-quill-editor
 */
 
+// import _Quill from 'quill'
 import _Quill from 'quill'
 import quillEditor from './editor.vue'
 
