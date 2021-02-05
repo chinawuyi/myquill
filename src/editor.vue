@@ -6,7 +6,7 @@
 </template>
 
 <script>
-  import _Quill from 'quill'
+  import _Quill from 'quillcore'
 
   const Quill = window.Quill || _Quill
   const defaultOptions = {
